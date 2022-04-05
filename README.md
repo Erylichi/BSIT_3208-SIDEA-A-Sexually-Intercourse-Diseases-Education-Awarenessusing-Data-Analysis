@@ -6,7 +6,16 @@ experiencing accidental needle stick injuries, including among health workers. H
 HIV/AIDS is one of the gravest public health issues in the world. According to the 2014 Global Statistics, 1.2 million people died of AIDS-related illnesses, with about 36.9 million people infected with HIV, of which 2 million accounts for the annual newly-infected cases. The global response to date, through the prevention and treatment services for sufferers and population at risk, has succeeded in decreasing the number of People Living with HIV (PLHIV) steadily . In recent years, country-led frontline service delivery programs/interventions have been carried out to halt the epidemic across the globe. These programs/interventions, focusing on better access to basic prevention, care and treatment (PCT) services, have catered to both the PLHIV population and key populations such as, male having sex with male (MSM), female sex workers (FSW) and people who inject drugs (PWID). Each country devised their own intervention as a response to the epidemic. In Ghana, TB integration into the HIV services through “one-stop shops” were found to have improved HIV screening.While in Asia, Hong Kong and the Philippines have social hygiene clinics (SHC), which provide basic PCT services to key populations, particularly for FSW.
 
 ## Statement of the problem
-## Significance of the Study:
+## Significance of the Study
+The proposed overall project goal is to provide an explanatory data analysis about the awareness of HIV/AIDS in the Philippines.  Having this kind of data sets have it's own advantage,
+
+- To review the situation regard the HIV/AIDS in the Philippines.
+- To monitor the information about the  facilities center available in the country.
+-  To create a data sets which lead to greater understanding the causes and effects of HIV/AIDS.
+- To proposed an explanatory data about the stages of Symptoms.
+- To provide the means to examine the numbers of people who got infected. 
+- To provide a datasets what ages has the most infected.
+- To provide a datasets what gender has the most infected.
 ## Methods
 ## Expected Output
 ## References
