@@ -8,7 +8,7 @@ HIV/AIDS is one of the gravest public health issues in the world. According to t
 ## Statement of the problem
 In recent years, many people have failed to grasp the dangers of sexual intercourse or any genital touching. STDs or sexually transmitted infections (STIs) such as AIDS and HIV are one of the risks of having a sexual relationship. Some STDs/STIs go undiscovered for long periods of time. Even if there are no symptoms, the infection or disease can still be harmful and spread to our partners, thus it's crucial to be aware of it during any sexual activity. We can catch any disease or infection, including AIDS/HIV, regardless of our marital status. Many people are unaware of the fact that this type of disease or infection is often characterized by being symptomatic. Infected persons will not display any symptoms, therefore you won't realize that you have STIs/STDs until they have spread or caused other side effects. People are also unaware that symptoms might occur in a matter of days or weeks, but sometimes they also take months or even years to develop.
 ## Significance of the Study
-The proposed overall project goal is to provide an explanatory data analysis about the awareness of HIV/AIDS in the Philippines.  Having this kind of data sets have it's own advantage,
+The proposed overall project goal is to provide an explanatory data analysis about the awareness education of HIV/AIDS in the Philippines.  Having this kind of data sets have it's own advantage,
 
 - To review the situation regard the HIV/AIDS in the Philippines.
 - To monitor the information about the  facilities center available in the country.
