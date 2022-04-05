@@ -19,6 +19,7 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - To provide the means to examine the numbers of people who got infected. 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
+- Importance of learning information about HIV AIDS by helping our community through the campaign against AIDS.
 ## This study will be beneficial for,
 - For filipino citizens, project will be having an advantage to monitor  what gender and age has the most number of HIV/AIDS infected. And having knowledge the factors of HIV/AIDS.
 - For students, who will require the information for future projects. This will aid them in developing a thorough grasp about the importance of  having advance  knowledge regards the HIV/AIDS. 
