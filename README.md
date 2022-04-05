@@ -26,7 +26,9 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - Future Researchers, this repository will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
 - For HIV/AIDS patient, This study will help them to monitor the available facility prevention center in their place. 
 ## Methods
+................
 ## Expected Output
+..............
 ## References
 - https://www.who.int/news-room/fact-sheets/detail/hiv-aids
 - https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids?fbclid=IwAR0Le7e8cKLV--WL68i3LtDP1qxa6yIpiZ3eY9Y7lrG9M0FZZQYNJVXEC2Q
