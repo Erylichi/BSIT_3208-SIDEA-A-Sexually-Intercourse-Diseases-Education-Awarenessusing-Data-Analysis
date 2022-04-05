@@ -13,16 +13,20 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - To monitor the information about the  facilities center available in the country.
 -  To create a data sets which lead to greater understanding the causes and effects of HIV/AIDS.
 - To proposed an explanatory data about the stages of Symptoms.
+- To provide what are the possible preventions.
 - To provide the means to examine the numbers of people who got infected. 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
+## This study will be beneficial for,
+- For filipino citizens, project will be having an advantage to monitor  what gender and age has the most number of HIV/AIDS infected. And having knowledge the factors of HIV/AIDS.
+- For students, who will require the information for future projects. This will aid them in developing a thorough grasp about the importance of  having advance  knowledge regards the HIV/AIDS. 
+- Future Researchers, this repository will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
+- For HIV/AIDS patient, This study will help them to monitor the available facility prevention center in their place. 
 ## Methods
 ## Expected Output
 ## References
 - https://www.who.int/news-room/fact-sheets/detail/hiv-aids
 - https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids?fbclid=IwAR0Le7e8cKLV--WL68i3LtDP1qxa6yIpiZ3eY9Y7lrG9M0FZZQYNJVXEC2Q
 - https://www.cdc.gov/hiv/basics/whatishiv.html?fbclid=IwAR1I4jao5dbUylHWEgjb8DdNFLgL6hOKpMVP3esW7XZ0OZS_WQxqabBRP9I#:~:text=What%20is%20HIV%3F-,HIV%20(human%20immunodeficiency%20virus)%20is%20a%20virus%20that%20attacks%20the,care%2C%20HIV%20can%20be%20controlled
-- 
-## This study will be Benificial For:
-## 
+
 
