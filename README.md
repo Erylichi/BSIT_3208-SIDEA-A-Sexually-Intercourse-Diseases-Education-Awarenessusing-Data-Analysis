@@ -28,6 +28,7 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 ## Methods
 ................
 ## Expected Output
+This research is planned to produce an explanatory data analysis to discover the impact of Sexually Intercourse Disease Education and Awareness from the year of 2021 as well as Other sexually transmitted diseases and how it affects human health, January 2021. With the help of data analysis the researchers will be able to uncover strategies to avoid sexually transmitted diseases in the Philippines by constructing explanatory data analysis for this study. Educators will be one of biggest influencer of this project because they give an expert explanation within it means of Sexually Intercourse they also give a hint of what would be its factors and effects to human health.
 ..............
 ## References
 - https://www.who.int/news-room/fact-sheets/detail/hiv-aids
