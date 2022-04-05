@@ -15,6 +15,7 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 -  To create a data sets which lead to greater understanding the causes and effects of HIV/AIDS.
 - To proposed an explanatory data about the stages of Symptoms.
 - To provide what are the possible preventions.
+- To provide the total population infected in the Philippines.
 - To provide the means to examine the numbers of people who got infected. 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
