@@ -7,6 +7,13 @@ HIV/AIDS is one of the gravest public health issues in the world. According to t
 
 ## Statement of the problem
 ## Significance of the Study:
+## Methods
+## Expected Output
+## References
+- https://www.who.int/news-room/fact-sheets/detail/hiv-aids
+- https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids?fbclid=IwAR0Le7e8cKLV--WL68i3LtDP1qxa6yIpiZ3eY9Y7lrG9M0FZZQYNJVXEC2Q
+- https://www.cdc.gov/hiv/basics/whatishiv.html?fbclid=IwAR1I4jao5dbUylHWEgjb8DdNFLgL6hOKpMVP3esW7XZ0OZS_WQxqabBRP9I#:~:text=What%20is%20HIV%3F-,HIV%20(human%20immunodeficiency%20virus)%20is%20a%20virus%20that%20attacks%20the,care%2C%20HIV%20can%20be%20controlled
+- 
 ## This study will be Benificial For:
 ## 
 
