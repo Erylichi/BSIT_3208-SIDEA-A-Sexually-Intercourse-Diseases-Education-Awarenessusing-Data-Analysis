@@ -26,8 +26,6 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - Future Researchers, this repository will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
 - For HIV/AIDS patient, This study will help them to monitor the available facility prevention center in their place. 
 ## Methods
-Methods
-
 Data have been collected via using a mixed method of qualitative and quantitative methods. It was utilized to identify the factors that have affected HIV/AIDS testing among the individuals in recent years. A descriptive cross-sectional study was used in the quantitative strand of the study to determine the important and context-specific factors that influenced HIV/AIDS testing among Filipinos. A convenience sampling technique was used to select the subjects. We're also considering utilizing a self-completed online questionnaire to provide us greater flexibility in data collection for further study in the near future. The questionnaire asked about how and when they contracted the diseases, as well as any HIV/AIDS-related knowledge. It also asked if they were aware of the danger of contracting STIs during sexual contact. In terms of the qualitative component of the study, we planned to employ semi-structured interviews to capture the viewpoints of healthcare professionals working in the HIV/AIDS area in the Philippines. In data gathering, we conduct Exploratory Data Analysis, or EDA, as a means of analyzing datasets in order to summarize the major aspects of any visual methods.
 
 ## Expected Output
