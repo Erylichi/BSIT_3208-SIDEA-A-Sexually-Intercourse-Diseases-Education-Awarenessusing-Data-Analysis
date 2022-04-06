@@ -81,6 +81,7 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - To provide the means to examine the numbers of people who got infected. 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
+- To provide a datasets about regions percentage of infected.
 - Importance of learning information about HIV AIDS by helping our community through the campaign against AIDS.
 - Reduce the number of new HIV infections (especially among youth) and
 - Reduce the impact of HIV and AIDS on individuals, families and communities
