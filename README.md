@@ -11,7 +11,7 @@ AIDS (acquired immune deficiency syndrome) is the name used to describe a number
 There are only three ways to get AIDS: unprotected sex, contact with infected blood or body fluids and mother to baby transmission.
 
 **Unprotected sex:**
-This is the most common way that people get AIDS. If you have sex with an HIV positive person and there is direct contact between the penis and vagina or anus, you can easily get infected. The virus lives in the fluids inside the penis and vagina and can easily enter your bloodstream. Using condoms properly is the only protection against this kind of infection.
+This is the most common way that people get AIDS. If you have sex with an HIV positive person and there is direct contact between, you can easily get infected.
  
 **Contact with infected blood.**
 If you have an open wound and it comes into contact with the blood of an HIV positive person, you can get infected. This contact could be through using the same needles for drugs or unsafe instruments used for circumcision. You can also get it from blood transfusions if the blood is contaminated [in SA all blood is screened]. Medical workers can get it from accidentally pricking themselves with needles they have used to inject HIV positive people.
@@ -28,7 +28,6 @@ Anyone can get AIDS, but some people are more vulnerable because they do not hav
 - Transport workers
 - Sex workers
 - Drug users who use needles
-- People who practice anal sex
 
 
 **What are the stages of HIV?**
