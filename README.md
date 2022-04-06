@@ -53,6 +53,8 @@ People receive an AIDS diagnosis when their CD4 cell count drops below 200 cells
 People with AIDS can have a high viral load and be very infectious.
 Without treatment, people with AIDS typically survive about three years.
 
+**These are the number population of  HIV/AIDS infected in the year of 2015 up to 2021 in Philippines**
+
 ![277734288_653090205769424_3578611321873999881_n](https://user-images.githubusercontent.com/102384528/161995338-e85f0db7-451e-40dc-a40c-7e9767aafe88.gif)
 
 
@@ -63,7 +65,7 @@ Exploring the mechanisms and machinations of culture, values, beliefs and relati
 
 
 ## Statement of the problem
-In recent years, many people have failed to grasp the dangers of sexual intercourse or any genital touching. STDs or sexually transmitted infections (STIs) such as AIDS and HIV are one of the risks of having a sexual relationship. Some STDs/STIs go undiscovered for long periods of time. Even if there are no symptoms, the infection or disease can still be harmful and spread to our partners, thus it's crucial to be aware of it during any sexual activity. We can catch any disease or infection, including AIDS/HIV, regardless of our marital status. Many people are unaware of the fact that this type of disease or infection is often characterized by being symptomatic. Infected persons will not display any symptoms, therefore you won't realize that you have STIs/STDs until they have spread or caused other side effects. People are also unaware that symptoms might occur in a matter of days or weeks, but sometimes they also take months or even years to develop.
+In recent years, many people have failed to grasp the dangers of sexual intercourse or any genital touching. STDs or sexually transmitted infections (STIs) such as AIDS and HIV are one of the risks of having a sexual relationship. Some STDs/STIs go undiscovered for long periods of time. Even if there are no symptoms, the infection or disease can still be harmful and spread to our partners, thus it's crucial to be aware of it during any sexual activity. We can catch any disease or infection, including AIDS/HIV, regardless of our marital status. Many people are unaware of the fact that this type of disease or infection is often characterized by being symptomatic. Infected persons will not display any symptoms, therefore you won't realize that you have STIs/STDs until they have spread or caused other side effects. People are also unaware that symptoms might occur in a matter of days or weeks, but sometimes they also take months or even years to develop. Based on the number of population year 2019 increase the percentage of infected than last year, and got decrease by year of 2020. And because of COVID-19  pandemic it still increase the number of infected.
 
 ## Significance of the Study
 The proposed overall project goal is to provide an explanatory data analysis about the awareness education of HIV/AIDS in the Philippines.  Having this kind of data sets have it's own advantage,
