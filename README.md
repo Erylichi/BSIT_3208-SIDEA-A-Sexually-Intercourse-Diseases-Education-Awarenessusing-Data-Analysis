@@ -3,8 +3,7 @@
 
 **What is HIV/AIDS?**
 
-HIV (human immunodeficiency virus) is a virus that damages the cells in your immune system and weakens your ability to fight everyday infections and disease.It is spread by contact with certain bodily fluids of a person with HIV, most commonly during unprotected sex (sex without a condom or HIV medicine to prevent or treat HIV), or through sharing injection drug equipment. HIV can be transmitted through the exchange of a variety of body fluids from infected people, such as blood, breast milk, semen and vaginal secretions. HIV can also be transmitted from a mother to her child during pregnancy and delivery. Individuals cannot become infected through ordinary day-to-day contact such as kissing, hugging, shaking hands, or sharing personal objects, food or water. It is important to note that people with HIV who are taking ART and are virally suppressed do not transmit HIV to their sexual partners.
-AIDS (acquired immune deficiency syndrome) is the name used to describe a number of potentially life-threatening infections and illnesses that happen when your immune system has been severely damaged by the HIV virus.
+HIV (human immunodeficiency virus) is a virus that damages the cells in your immune system and weakens your ability to fight everyday infections and disease. AIDS (acquired immune deficiency syndrome) is the name used to describe a number of potentially life-threatening infections and illnesses that happen when your immune system has been severely damaged by the HIV virus.
 
 **How do you get AIDS**
 
