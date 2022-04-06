@@ -28,7 +28,6 @@ Anyone can get AIDS, but some people are more vulnerable because they do not hav
 - Sex workers
 - Drug users who use needles
 
-
 **What are the stages of HIV?**
 
 **Stage 1: Acute HIV Infection**
@@ -53,6 +52,9 @@ People with AIDS have such badly damaged immune systems that they get an increas
 People receive an AIDS diagnosis when their CD4 cell count drops below 200 cells/mm, or if they develop certain opportunistic infections.
 People with AIDS can have a high viral load and be very infectious.
 Without treatment, people with AIDS typically survive about three years.
+
+![277734288_653090205769424_3578611321873999881_n](https://user-images.githubusercontent.com/102384528/161995338-e85f0db7-451e-40dc-a40c-7e9767aafe88.gif)
+
 
 
 **Why hiv aids education is important to the youth?**
