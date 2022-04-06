@@ -36,6 +36,7 @@ The main purpose of this research is to conduct an explanatory data analysis to 
 - https://www.who.int/news-room/fact-sheets/detail/hiv-aids
 - https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids?fbclid=IwAR0Le7e8cKLV--WL68i3LtDP1qxa6yIpiZ3eY9Y7lrG9M0FZZQYNJVXEC2Q
 - https://www.cdc.gov/hiv/basics/whatishiv.html?fbclid=IwAR1I4jao5dbUylHWEgjb8DdNFLgL6hOKpMVP3esW7XZ0OZS_WQxqabBRP9I#:~:text=What%20is%20HIV%3F-,HIV%20(human%20immunodeficiency%20virus)%20is%20a%20virus%20that%20attacks%20the,care%2C%20HIV%20can%20be%20controlled
+- https://www.aidsdatahub.org/resource/philippines-hiv-aids-registry-nov-2014
 - https://doh.gov.ph/sites/default/files/statistics/EB_HIV_Dec-AIDSreg2015.pdf
 - https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-june-2016
 - https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-january-2017
