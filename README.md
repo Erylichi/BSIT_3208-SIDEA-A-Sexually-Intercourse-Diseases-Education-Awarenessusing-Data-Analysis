@@ -8,7 +8,7 @@ AIDS (acquired immune deficiency syndrome) is the name used to describe a number
 
 **How do you get AIDS**
 
-There are only three ways to get AIDS: unprotected sex, contact with infected blood or body fluids and mother to baby transmission.
+ways to get AIDS: unprotected sex, contact with infected blood or body fluids and mother to baby transmission.
 
 **Unprotected sex:**
 This is the most common way that people get AIDS. If you have sex with an HIV positive person and there is direct contact between, you can easily get infected.
