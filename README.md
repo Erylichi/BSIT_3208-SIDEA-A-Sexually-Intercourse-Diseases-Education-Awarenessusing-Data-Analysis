@@ -6,6 +6,31 @@
 HIV (human immunodeficiency virus) is a virus that damages the cells in your immune system and weakens your ability to fight everyday infections and disease.It is spread by contact with certain bodily fluids of a person with HIV, most commonly during unprotected sex (sex without a condom or HIV medicine to prevent or treat HIV), or through sharing injection drug equipment. HIV can be transmitted through the exchange of a variety of body fluids from infected people, such as blood, breast milk, semen and vaginal secretions. HIV can also be transmitted from a mother to her child during pregnancy and delivery. Individuals cannot become infected through ordinary day-to-day contact such as kissing, hugging, shaking hands, or sharing personal objects, food or water. It is important to note that people with HIV who are taking ART and are virally suppressed do not transmit HIV to their sexual partners.
 AIDS (acquired immune deficiency syndrome) is the name used to describe a number of potentially life-threatening infections and illnesses that happen when your immune system has been severely damaged by the HIV virus.
 
+**How do you get AIDS**
+
+There are only three ways to get AIDS: unprotected sex, contact with infected blood or body fluids and mother to baby transmission.
+
+**Unprotected sex:**
+This is the most common way that people get AIDS. If you have sex with an HIV positive person and there is direct contact between the penis and vagina or anus, you can easily get infected. The virus lives in the fluids inside the penis and vagina and can easily enter your bloodstream. Using condoms properly is the only protection against this kind of infection.
+ 
+**Contact with infected blood.**
+If you have an open wound and it comes into contact with the blood of an HIV positive person, you can get infected. This contact could be through using the same needles for drugs or unsafe instruments used for circumcision. You can also get it from blood transfusions if the blood is contaminated [in SA all blood is screened]. Medical workers can get it from accidentally pricking themselves with needles they have used to inject HIV positive people.
+ 
+**Mother to baby transmission.**
+HIV positive mothers can pass the infection to their babies, although this does not happen in all cases. Transmission can happen during pregnancy, or childbirth because of the contact with blood, or during breast feeding.
+You cannot get AIDS from kissing someone on the lips, hugging, sharing food and drink or using the same bath or toilet as someone who is HIV positive.
+
+Anyone can get AIDS, but some people are more vulnerable because they do not have the power to say no to unprotected sex or because of their risky lifestyles. The groups who are most vulnerable and have the highest infection rates are:
+
+- Young women between 15 - 30 years old
+- Sexually active men who have more than one partner, with young men more common
+- Migrant and mine workers
+- Transport workers
+- Sex workers
+- Drug users who use needles
+- People who practice anal sex
+
+
 **What are the stages of HIV?**
 
 **Stage 1: Acute HIV Infection**
