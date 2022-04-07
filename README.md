@@ -57,7 +57,7 @@ Without treatment, people with AIDS typically survive about three years.
 
 ![277734288_653090205769424_3578611321873999881_n](https://user-images.githubusercontent.com/102384528/161995338-e85f0db7-451e-40dc-a40c-7e9767aafe88.gif)
 
-![277833370_1057605114833171_2693062476976338247_n](https://user-images.githubusercontent.com/102384528/162006967-4ab9e419-7b0e-4997-bee8-61d1f7701e16.gif)
+![image](https://user-images.githubusercontent.com/102384528/162123874-581fd1f3-0415-4ae0-9553-a1f0def30291.png)
 
 ![277690368_502140764910799_6147205677701044528_n](https://user-images.githubusercontent.com/102384528/162012397-ea3d3b4b-2787-4722-8bff-dad4b958c3df.png)
 
