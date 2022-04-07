@@ -61,6 +61,10 @@ Without treatment, people with AIDS typically survive about three years.
 
 ![image](https://user-images.githubusercontent.com/102384528/162124210-4084de8f-d838-47a7-87d0-1904c97b2db6.png)
 
+  **FACILITIES DESIGNATED AS HIV TREATMENT HUBS/PRIMARY CARE AND CERTIFIED RHIVDA CONFIRMATORY LABORATORIES 2021**
+   
+![image](https://user-images.githubusercontent.com/102384528/162126919-02b06af9-5085-4de2-a101-3c49d377551e.png)
+
 
 
 **Why hiv aids education is important to the youth?**
