@@ -91,7 +91,7 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - Importance of learning information about HIV AIDS by helping our community through the campaign against AIDS.
 - Reduce the number of new HIV infections (especially among youth) and
 - Reduce the impact of HIV and AIDS on individuals, families and communities
-- 
+
 ## This study will be beneficial for,
 - For filipino citizens, project will be having an advantage to monitor  what gender and age has the most number of HIV/AIDS infected. And having knowledge the factors of HIV/AIDS.
 - For students, who will require the information for future projects. This will aid them in developing a thorough grasp about the importance of  having advance  knowledge regards the HIV/AIDS. 
