@@ -1,57 +1,8 @@
 # SIDEA: "A Sexually Intercourse Diseases Education Awareness using Data Analysis"
 ## Introduction
+The HIV epidemic in the Philippines is the fastest-growing in the Asia and Pacific region. According to UNAIDS data, HIV prevalence in the Philippines increased by 207% from 2010 to 2019. AIDS-related deaths rose by 338% in the same period. In 2019, an estimated 97,000 people were living with HIV in the Philippines. Of those, 73% knew their status and 44% were receiving antiretroviral treatment. HIV (human immunodeficiency virus) is a virus that attacks cells that help the body fight infection, making a person more vulnerable to other infections and diseases. It is spread by contact with certain bodily fluids of a person with HIV, most commonly during unprotected sex (sex without a condom or HIV medicine to prevent or treat HIV), or through sharing injection drug equipment. HIV (human immunodeficiency virus) is a virus that attacks the body’s immune system. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome).There is currently no effective cure. Once people get HIV, they have it for life. But with proper medical care, HIV can be controlled. People with HIV who get effective HIV treatment can live long, healthy lives and protect their partners. HIV infection happens in three stages. Without treatment, it gets worse over time and eventually overpowers the immune system. The symptoms will depend on every stage, First Stage: Acute HIV infection symptoms , Second Stage: clinical latency symptoms and Third Stage: AIDS symptoms.
+HIV/AIDS is one of the gravest public health issues in the world. According to the 2014 Global Statistics, 1.2 million people died of AIDS-related illnesses, with about 36.9 million people infected with HIV, of which 2 million accounts for the annual newly-infected cases. The global response to date, through the prevention and treatment services for sufferers and population at risk, has succeeded in decreasing the number of People Living with HIV (PLHIV) steadily . In recent years, country-led frontline service delivery programs/interventions have been carried out to halt the epidemic across the globe. These programs/interventions, focusing on better access to basic prevention, care and treatment (PCT) services, have catered to both the PLHIV population and key populations such as, male having sex with male (MSM), female sex workers (FSW) and people who inject drugs (PWID). Each country devised their own intervention as a response to the epidemic. In Ghana, TB integration into the HIV services through “one-stop shops” were found to have improved HIV screening.While in Asia, Hong Kong and the Philippines have social hygiene clinics (SHC), which provide basic PCT services to key populations, particularly for FSW.
 
-**What is HIV/AIDS?**
-
-HIV (human immunodeficiency virus) is a virus that damages the cells in your immune system and weakens your ability to fight everyday infections and disease. AIDS (acquired immune deficiency syndrome) is the name used to describe a number of potentially life-threatening infections and illnesses that happen when your immune system has been severely damaged by the HIV virus.
-
-**How do you get AIDS**
-
-ways to get AIDS: unprotected sex, contact with infected blood or body fluids and mother to baby transmission.
-
-**Unprotected sex:**
-This is the most common way that people get AIDS. If you have sex with an HIV positive person and there is direct contact between, you can easily get infected.
- 
-**Contact with infected blood.**
-If you have an open wound and it comes into contact with the blood of an HIV positive person, you can get infected. This contact could be through using the same needles for drugs or unsafe instruments used for circumcision. You can also get it from blood transfusions if the blood is contaminated [in SA all blood is screened]. Medical workers can get it from accidentally pricking themselves with needles they have used to inject HIV positive people.
- 
-**Mother to baby transmission.**
-HIV positive mothers can pass the infection to their babies, although this does not happen in all cases. Transmission can happen during pregnancy, or childbirth because of the contact with blood, or during breast feeding.
-You cannot get AIDS from kissing someone on the lips, hugging, sharing food and drink or using the same bath or toilet as someone who is HIV positive.
-
-Anyone can get AIDS, but some people are more vulnerable because they do not have the power to say no to unprotected sex or because of their risky lifestyles. The groups who are most vulnerable and have the highest infection rates are:
-
-- Young women between 15 - 30 years old
-- Sexually active men who have more than one partner, with young men more common
-- Migrant and mine workers
-- Transport workers
-- Sex workers
-- Drug users who use needles
-
-**What are the stages of HIV?**
-
-**Stage 1: Acute HIV Infection**
-People have a large amount of HIV in their blood. They are very contagious.
-Some people have flu-like symptoms. This is the body’s natural response to infection.
-But some people may not feel sick right away or at all.
-If you have flu-like symptoms and think you may have been exposed to HIV, seek medical care and ask for a test to diagnose acute infection.
-Only antigen/antibody tests or nucleic acid tests (NATs) can diagnose acute infection.
-
-**Stage 2: Chronic HIV Infection**
-This stage is also called asymptomatic HIV infection or clinical latency.
-HIV is still active but reproduces at very low levels.
-People may not have any symptoms or get sick during this phase.
-Without taking HIV medicine, this period may last a decade or longer, but some may progress faster.
-People can transmit HIV in this phase.
-At the end of this phase, the amount of HIV in the blood (called viral load) goes up and the CD4 cell count goes down. The person may have symptoms as the virus levels increase in the body, and the person moves into Stage 3.
-People who take HIV medicine as prescribed may never move into Stage 3.
-
-**Stage 3: Acquired Immunodeficiency Syndrome (AIDS)**
-The most severe phase of HIV infection.
-People with AIDS have such badly damaged immune systems that they get an increasing number of severe illnesses, called opportunistic infections.
-People receive an AIDS diagnosis when their CD4 cell count drops below 200 cells/mm, or if they develop certain opportunistic infections.
-People with AIDS can have a high viral load and be very infectious.
-Without treatment, people with AIDS typically survive about three years.
 
 **These are the number population of  HIV/AIDS infected in the year of 2015 up to 2021 in Philippines**
 
