@@ -1,18 +1,22 @@
 # SIDEA: "A Sexually Intercourse Diseases Education Awareness using Data Analysis"
 
 ## Abstract
-The Philippines is experiencing one of the fastest growing epidemics globally. Evidence-based public health policies are needed. To explain data analysis the public health literature on HIV risk groups and prevention approaches, researchers reviewed published studies the percentages of infected by regions, by year, by age and most infected by gender  from  HIV/AIDS and ART Registry of Philippines year 2015 up to 2021. 
+One of the world's fastest-growing epidemics is occurring in the Philippines. Public health policies that are based on scientific evidence are required. Researchers evaluated published studies on the percentages of infected by area, by year, by age, and most infected by gender and the current available tratmet hub in the country year 2021 from the HIV/AIDS and ART Registry of the Philippines from 2015 to 2021 to explain data analysis of the public health literature on HIV risk groups and prevention techniques.
 
 ## Introduction
-The HIV epidemic in the Philippines is the fastest-growing in the Asia and Pacific region. According to UNAIDS data, HIV prevalence in the Philippines increased by 207% from 2010 to 2019. AIDS-related deaths rose by 338% in the same period. In 2019, an estimated 97,000 people were living with HIV in the Philippines. Of those, 73% knew their status and 44% were receiving antiretroviral treatment. HIV (human immunodeficiency virus) is a virus that attacks cells that help the body fight infection, making a person more vulnerable to other infections and diseases. It is spread by contact with certain bodily fluids of a person with HIV, most commonly during unprotected sex (sex without a condom or HIV medicine to prevent or treat HIV), or through sharing injection drug equipment. HIV (human immunodeficiency virus) is a virus that attacks the body’s immune system. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome).There is currently no effective cure. Once people get HIV, they have it for life. But with proper medical care, HIV can be controlled. People with HIV who get effective HIV treatment can live long, healthy lives and protect their partners. HIV infection happens in three stages. Without treatment, it gets worse over time and eventually overpowers the immune system. The symptoms will depend on every stage, first Stage: Acute HIV infection symptoms ,second tasge: clinical latency symptoms and third stage: AIDS symptoms.
-HIV/AIDS is one of the gravest public health issues in the world. According to the 2014 Global Statistics, 1.2 million people died of AIDS-related illnesses, with about 36.9 million people infected with HIV, of which 2 million accounts for the annual newly-infected cases. The global response to date, through the prevention and treatment services for sufferers and population at risk, has succeeded in decreasing the number of People Living with HIV (PLHIV) steadily . In recent years, country-led frontline service delivery programs/interventions have been carried out to halt the epidemic across the globe. These programs/interventions, focusing on better access to basic prevention, care and treatment (PCT) services, have catered to both the PLHIV population and key populations such as, male having sex with male (MSM), female sex workers (FSW) and people who inject drugs (PWID). Each country devised their own intervention as a response to the epidemic. In Ghana, TB integration into the HIV services through “one-stop shops” were found to have improved HIV screening.While in Asia, Hong Kong and the Philippines have social hygiene clinics (SHC), which provide basic PCT services to key populations, particularly for FSW.
+In Asia and the Pacific, the Philippines has the fastest-growing HIV epidemic. HIV prevalence in the Philippines climbed by 207 percent between 2010 and 2019, according to UNAIDS data. In the same time span, AIDS-related mortality increased by 338 percent. In the Philippines, an estimated 97,000 people were living with HIV in 2019. Seventy-three percent were aware of their HIV status, and 44 percent were on antiretroviral therapy. HIV (human immunodeficiency virus) is a virus that affects cells in the body that help it fight infections, making a person more susceptible to other infections and diseases. Contact with certain bodily fluids of an HIV-positive individual, most commonly during unprotected intercourse (sex without the use of a condom or HIV treatment to prevent or treat HIV), or sharing injection drug equipment spreads the virus. The human immunodeficiency virus (HIV) is a virus that targets the immune system of the body. AIDS (acquired immunodeficiency syndrome) can develop if HIV is not treated. There is presently no viable therapy. People who contract HIV are infected for the rest of their lives. HIV, on the other hand, can be managed with the right medical care. HIV-positive people who get proper treatment can live long, healthy lives while also protecting their relationships. There are three stages to HIV infection. It gets worse without therapy over time and eventually overwhelms the immune system. The symptoms will vary depending on which stage you are in: acute HIV infection symptoms, clinical latency symptoms, and AIDS symptoms.
+HIV/AIDS is one of the world's most serious public health problems. According to the 2014 Global Statistics, 1.2 million individuals died as a result of AIDS-related illnesses, with 36.9 million people infected with HIV, with 2 million being new cases each year. To date, the worldwide response has succeeded in steadily reducing the number of People Living with HIV (PLHIV) through prevention and treatment programs for sufferers and at-risk populations. To stop the epidemic from spreading over the world, country-led frontline service delivery programs/interventions have been implemented in recent years. These programs/interventions, which focused on improving access to basic prevention, care, and treatment (PCT) services, catered to both the PLHIV community and critical populations such as male having sex with male (MSM), female having sex with male (FGM), and male having sex with female (FGM). As a response to the outbreak, each country designed its own intervention. While in Asia, Hong Kong and the Philippines have social hygiene clinics (SHC), which provide basic PCT services to critical populations, particularly for FSW, TB integration into HIV services through "one-stop shops" was proven to increase HIV screening.
 
 
 **These are the number population of  HIV/AIDS infected in the year of 2015 up to 2021 in Philippines**
 
 ![277734288_653090205769424_3578611321873999881_n](https://user-images.githubusercontent.com/102384528/161995338-e85f0db7-451e-40dc-a40c-7e9767aafe88.gif)
 
+**These are the number of diagnosed cases from region based on researchers comparison year 2015 to 2021**
+
 ![image](https://user-images.githubusercontent.com/102384528/162123874-581fd1f3-0415-4ae0-9553-a1f0def30291.png)
+
+**These are the summary of HIV diagnosed and death based on researchers comparison year 2015 to 2021**
 
 ![image](https://user-images.githubusercontent.com/102384528/162124210-4084de8f-d838-47a7-87d0-1904c97b2db6.png)
 
@@ -23,8 +27,7 @@ HIV/AIDS is one of the gravest public health issues in the world. According to t
 
 
 **Why hiv aids education is important to the youth?**
-- According to UNESCO Global Coordinator for HIV and AIDS Chris Castle, “HIV education can help learners to not only develop and maintain safer behaviours, but also reduce stigma and discrimination towards people affected by, and living with, HIV.”
-Exploring the mechanisms and machinations of culture, values, beliefs and relationships of power has become more prominent and acknowledging that education and health are inextricably linked is now seen as vital. For example, HIV education can help to tackle some of the structural drivers of the epidemic, such as harmful gender norms, which can increase the vulnerability of women and girls.
+- "HIV education can help learners not only develop and maintain safer behaviors, but also reduce stigma and discrimination towards people affected by, and living with, HIV," says UNESCO Global Coordinator for HIV and AIDS Chris Castle. Exploring the mechanisms and machinations of culture, values, beliefs, and power relationships has become more prominent, and acknowledging that education and health are inextricably linked is now seen as vital. HIV education, for example, might assist to address some of the epidemic's structural drivers, such as unfavorable gender norms, which can make women and girls more vulnerable.
 
 
 ## Statement of the problem
@@ -50,9 +53,9 @@ The proposed overall project goal is to provide an explanatory data analysis abo
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
 - To provide a datasets about regions percentage of infected.
-- Importance of learning information about HIV AIDS by helping our community through the campaign against AIDS.
-- Reduce the number of new HIV infections (especially among youth) and
-- Reduce the impact of HIV and AIDS on individuals, families and communities
+- The significance of knowing about HIV/AIDS and assisting our community in the AIDS battle.
+- Lower the number of new HIV infections (particularly among teenagers) and
+- Lessen the effects of HIV/AIDS on individuals, families, and communities
 
 ## This study will be beneficial for,
 - For filipino citizens, project will be having an advantage to monitor  what gender and age has the most number of HIV/AIDS infected. And having knowledge the factors of HIV/AIDS.
@@ -67,13 +70,13 @@ Data have been collected via using a mixed method of qualitative and quantitati
 The main purpose of this research is to conduct an explanatory data analysis to determine the impact of Sexually Intercourse Disease Education and Awareness in the year 2015-2021, as well as other sexually transmitted illnesses and their effects on human health in 2015 to 2021. By creating an explanatory data analysis for this study, the researchers would be able to find solutions to avoid sexually transmitted diseases and infection in the Philippines. Educators will be one of the most influential people in this project since they provide an authoritative explanation of what sexually intercourse is and what elements and consequences it has on human health. Also with help of our data analysis it help people understand what part of the location HIV/AIDS is mostly common and set it help people understand how fast the virus grow on human health and how easily the virus can be contacted. Reducing the number of people infected with HIV/AIDS and give care and support to those living with the disease and their families is one of our priorities and goals. These kind goals may will take years to achieve, and we won't be able to accomplish them in a few months but with a lot of publicity to spread this kind of data or information and little follow-up we can alarm a lot of people of how important is this. Organizations may also help us and they must work on a long-term campaign on a continuous basis. We expect that people should be educated and learned on how to avoid contracting HIV/AIDS by modifying their sexual habits. Also developing a community which cares for this kind of projects to help individuals living with STIs and STIs orphans to raise awareness about the disease and make communities more accepting of persons living with any STIs as equal.
 
 **Recommnedations**
-- Create a culture of openness and acceptance around HIV and AIDS or any STDs.
-- Ensure that the rights of people living with AIDS are protected.
-- Develop mechanisms to assist people living with AIDS to enforce their rights.
-- A public awareness drive to influence behaviour change and encourage openness;
-- Increase access to voluntary HIV testing and counselling;
-- Promote increased condom use to reduce the spread of STD and HIV infections;
-- Improve the treatment of people living with AIDS
+- Create tools to help persons living with AIDS enforce their rights.
+- Ensure that those living with AIDS have their rights safeguarded.
+- Promote an open and accepting culture surrounding HIV/AIDS and other STDs.
+- A public awareness campaign to inspire openness and influence behavior change;
+- Enhance AIDS treatment for persons living with the disease.
+- Increase the number of people who can get HIV testing and counseling on a voluntary basis;
+- Encourage people to use condoms more often in order to limit the spread of STDs and HIV infections;
 
 ## References
 - https://www.who.int/news-room/fact-sheets/detail/hiv-aids
