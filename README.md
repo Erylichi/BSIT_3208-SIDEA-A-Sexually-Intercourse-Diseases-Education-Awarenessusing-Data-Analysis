@@ -59,7 +59,7 @@
 - Lower the number of new HIV infections (particularly among teenagers) and
 - Lessen the effects of HIV/AIDS on individuals, families, and communities
 
-## This study will be beneficial for,
+## This study will be beneficial for: 
 
 - The initiative will benefit Filipino residents by allowing them to track which gender and age group has the highest number of HIV/AIDS affected people. Also, being aware of the HIV/AIDS risk factors.
 - For students who will need the knowledge in the future for their projects. This will help students have a better understanding of the need of being well-informed about HIV/AIDS.
