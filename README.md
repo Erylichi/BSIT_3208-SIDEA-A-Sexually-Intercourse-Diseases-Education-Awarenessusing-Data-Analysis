@@ -2,7 +2,7 @@
  
 ## Abstract
 
- One of the world's fastest-growing epidemics is occurring in the Philippines. Public health policies that are based on scientific evidence are required. Researchers evaluated published studies on the percentages of infected by area, by year, by age, and most infected by gender and the current available treatment hub in the country year 2021 from the HIV/AIDS and ART Registry of the Philippines from 2015 to 2021 to explain data analysis of the public health literature on HIV risk groups and prevention techniques.
+ One of the world's fastest-growing epidemics is occurring in the Philippines. Public health policies that are based on scientific evidence are required. Researchers evaluated published studies on the percentages of infected by area, by year, by age, and most infected by gender and the current available treatment hub in the country year 2021 from the HIV/AIDS and ART Registry of the Philippines from 2015 to 2021 to explain data analysis of the public health literature on HIV risk groups and prevention techniques. Researchers will be creating recommendations and solutions on how to prevent HIV/AIDS and  to spread information in order to aware our community. 
 
 ## Introduction
 
