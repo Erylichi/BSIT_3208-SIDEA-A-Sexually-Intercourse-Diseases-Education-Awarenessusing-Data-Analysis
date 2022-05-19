@@ -12,13 +12,6 @@
 
 ![277734288_653090205769424_3578611321873999881_n](https://user-images.githubusercontent.com/102384528/161995338-e85f0db7-451e-40dc-a40c-7e9767aafe88.gif)
 
-**These are the number of diagnosed cases from region based on researchers comparison year 2015 to 2021**
-
-![image](https://user-images.githubusercontent.com/102384528/162123874-581fd1f3-0415-4ae0-9553-a1f0def30291.png)
-
-**These are the summary of HIV diagnosed and death based on researchers comparison year 2015 to 2021**
-
-![image](https://user-images.githubusercontent.com/102384528/162124210-4084de8f-d838-47a7-87d0-1904c97b2db6.png)
 
   **FACILITIES DESIGNATED AS HIV TREATMENT HUBS/PRIMARY CARE AND CERTIFIED RHIVDA CONFIRMATORY LABORATORIES 2021**
    
