@@ -61,17 +61,4 @@
 - Increase the number of persons who can receive free HIV testing and counseling;
 - Encourage people to use condoms more frequently to prevent the spread of STDs and HIV;
 
-## References
-- https://www.who.int/news-room/fact-sheets/detail/hiv-aids
-- https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids?fbclid=IwAR0Le7e8cKLV--WL68i3LtDP1qxa6yIpiZ3eY9Y7lrG9M0FZZQYNJVXEC2Q
-- https://www.cdc.gov/hiv/basics/whatishiv.html?fbclid=IwAR1I4jao5dbUylHWEgjb8DdNFLgL6hOKpMVP3esW7XZ0OZS_WQxqabBRP9I#:~:text=What%20is%20HIV%3F-,HIV%20(human%20immunodeficiency%20virus)%20is%20a%20virus%20that%20attacks%20the,care%2C%20HIV%20can%20be%20controlled
-- https://doh.gov.ph/sites/default/files/statistics/EB_HIV_Dec-AIDSreg2015.pdf
-- https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-june-2016
-- https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-january-2017
-- https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-december-2018
-- https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-january-2019
-- https://www.aidsdatahub.org/resource/philippines-country-data-2020
-- https://www.aidsdatahub.org/resource/hiv-aids-and-art-registry-philippines-december-2021?fbclid=IwAR3t3Rf8UX_ITUZ6noyZ7gZYt00tqzk65_IJOBGUzK-Cz_genw7xUdsei5A
-- https://data.humdata.org/dataset/who-data-for-philippines/resource/e61ce818-0861-445f-867d-2b185688c231
-
 
