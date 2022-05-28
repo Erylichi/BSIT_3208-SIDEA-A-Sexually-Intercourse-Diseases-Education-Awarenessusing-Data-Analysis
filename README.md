@@ -15,10 +15,13 @@
  The primary issue that this research would address is that many people have failed to recognize the dangers of sexual intercourse or any genital touches in recent years. One of the dangers of having a sexual connection is STDs, or sexually transmitted illnesses (STIs), such as AIDS and HIV. The majority of patients are unaware of the danger it poses to their life. The percentage of patients with HIV/AIDS are males, and the disease is transmitted through sexual contact. The majority of the patients are between the ages of 25 and 34.
 
 ## Sustainable Development Goals (SDGs)
-This project intends to achieve the SDGs of Good Health of Being.
 
-Goal 1: The goal is for the Philippines to assure everyone's health and well-being, to end and prevent the HIV epidemic, to collaborate, and to ensure that no one is left behind.
-
+The Project's Sustainable Development Goals (SDGs)
+Sustainable Poverty Action and Ensure Healthy Lives Action are the SDGs that this project aims to achieve. The following are additional descriptions of the SDGs:
+Goal 1: eradicate poverty
+Poverty can make people more vulnerable to HIV infection. Women's socioeconomic status has an impact on their ability to prevent or mitigate the effects of HIV. HIV-affected households are more likely to fall into and remain in poverty. Economic empowerment and social protection can help reduce poverty and HIV vulnerability while also keeping HIV patients healthy.Goal 3: Ensure that people live healthy lives.
+Access to HIV prevention and treatment is hampered by a lack of universal health coverage, which includes sexual and reproductive health services as well as harm reduction for people who inject drugs. The majority of people who become infected with HIV do so through sexual transmission or transmission from mother to infant during pregnancy, childbirth, or breastfeeding. Integrating HIV-sensitive universal health coverage with rights-based services for sexual and reproductive health, noncommunicable diseases, hepatitis, tuberculosis, and other conditions can improve broader health outcomes. SDG 3 includes Member States' commitment to eradicate AIDS by 2030. (target 3.3).
+This framework will assist the Philippine government in taking immediate action prior to a larger number of people contracting/ having HIV/AIDS.
 ![image](https://user-images.githubusercontent.com/105804704/170804013-16491c5a-96a9-49a1-812f-7240452c2c10.png)
 
 ## Significance of the Study
