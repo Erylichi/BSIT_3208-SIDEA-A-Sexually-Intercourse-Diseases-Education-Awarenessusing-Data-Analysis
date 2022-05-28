@@ -12,14 +12,14 @@
 
 ## Statement of the problem
 
- In recent years, many people have failed to grasp the dangers of sexual intercourse or any genital touching. STDs or sexually transmitted infections (STIs) such as AIDS and HIV are one of the risks of having a sexual relationship. Here are some  impact of infectious diseases.
-1) Some STDs/STIs go undiscovered for long periods of time. 
-2) Even if there are no symptoms, the infection or disease can still be harmful and spread to our partners, thus it's crucial to be aware of it during any sexual activity. 
-3) We can catch any disease or infection, including AIDS/HIV, regardless of our marital status. 
-4) Many people are unaware of the fact that this type of disease or infection is often characterized by being symptomatic. 
-5) Infected persons will not display any symptoms, therefore you won't realize that you have STIs/STDs until they have spread or caused other side effects. 
-6) People are also unaware that symptoms might occur in a matter of days or weeks, but sometimes they also take months or even years to develop. 
+ The primary issue that this research would address is that many people have failed to recognize the dangers of sexual intercourse or any genital touches in recent years. One of the dangers of having a sexual connection is STDs, or sexually transmitted illnesses (STIs), such as AIDS and HIV. The majority of patients are unaware of the danger it poses to their life. The percentage of patients with HIV/AIDS are males, and the disease is transmitted through sexual contact. The majority of the patients are between the ages of 25 and 34.
 
+## Sustainable Development Goals (SDGs)
+This project intends to achieve the SDGs of Good Health of Being.
+
+Goal 1: The goal is for the Philippines to assure everyone's health and well-being, to end and prevent the HIV epidemic, to collaborate, and to ensure that no one is left behind.
+
+![image](https://user-images.githubusercontent.com/105804704/170804013-16491c5a-96a9-49a1-812f-7240452c2c10.png)
 
 ## Significance of the Study
 
@@ -28,11 +28,11 @@
 - To review the situation regard the HIV/AIDS in the Philippines.
 - To monitor the information about the  facilities center available in the country.
 - To create a data sets which lead to greater understanding the causes and effects of HIV/AIDS.
-- To provide the means to examine the numbers of people who got infected. 
+- To provide the means to examine the numbers of people who got infected by 2015-2021. 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
 - To provide a datasets about regions percentage of infected.
-- Lower the number of new HIV infections (particularly among teenagers) and
+- Lower the number of new HIV infections (particularly among teenagers) 
 
 ## This study will be beneficial for: 
 
@@ -47,7 +47,7 @@
 
 ## Expected Output
 
- The main objective of this study is to conduct an explanatory data analysis to estimate the impact of sexually transmitted disease education and awareness from 2015 to 2021, as well as other sexually transmitted illnesses and their consequences on human health. The researchers will be able to develop methods to prevent sexually transmitted illnesses and infection in the Philippines by doing an explanatory data analysis for this study. Educators will be one of the most significant persons in this endeavor because they will offer a credible explanation of what sexual intercourse is and what aspects and implications it has on human health. Also, with the aid of our data analysis, individuals may learn which parts of the country are the most affected by HIV/AIDS, as well as how quickly the virus spreads and how easy it can be contracted. One of our focuses and aims is to reduce the number of persons infected with HIV/AIDS and to provide care and support to those living with the disease and their families. These kinds of goals may take years to fulfill, and we won't be able to accomplish them in a few months, but with a lot of exposure and minimal follow-up, we can alert a lot of people to how essential this is. Organizations can also assist us, but they must work on a long-term campaign that is ongoing. People should be taught and informed on how to prevent catching HIV/AIDS by changing their sexual behaviors, according to our expectations. Creating a community that cares about such programs to assist people living with STIs and STI orphans, as well as raising knowledge about the disease and making communities more accepting of people living with any STI.
+ The main objective of this study is to conduct an explanatory data analysis to estimate the impact of sexually transmitted disease education and awareness from 2015 to 2021,  The researchers will be able to develop methods to prevent sexually transmitted illnesses and infection in the Philippines by doing an explanatory data analysis for this study. Educators will be one of the most significant persons in this endeavor because they will offer a credible explanation of what sexual intercourse is and what aspects and implications it has on human health. Also, with the aid of our data analysis, individuals may learn which parts of the country are the most affected by HIV/AIDS, as well as how quickly the virus spreads and how easy it can be contracted. One of our focuses and aims is to reduce the number of persons infected with HIV/AIDS and to provide care and support to those living with the disease and their families. These kinds of goals may take years to fulfill, and we won't be able to accomplish them in a few months, but with a lot of exposure and minimal follow-up, we can alert a lot of people to how essential this is. Organizations can also assist us, but they must work on a long-term campaign that is ongoing. People should be taught and informed on how to prevent catching HIV/AIDS by changing their sexual behaviors, according to our expectations. Creating a community that cares about such programs to assist people living with STIs and STI orphans, as well as raising knowledge about the disease and making communities more accepting of people living with any STI.
 
 **Solutions**
 - Create tools to assist people living with HIV/AIDS in asserting their rights.
