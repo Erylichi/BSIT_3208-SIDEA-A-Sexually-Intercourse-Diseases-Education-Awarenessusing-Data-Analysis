@@ -18,11 +18,16 @@
 
 The Project's Sustainable Development Goals (SDGs)
 Sustainable Poverty Action and Ensure Healthy Lives Action are the SDGs that this project aims to achieve. The following are additional descriptions of the SDGs:
-Goal 1: eradicate poverty
-Poverty can make people more vulnerable to HIV infection. Women's socioeconomic status has an impact on their ability to prevent or mitigate the effects of HIV. HIV-affected households are more likely to fall into and remain in poverty. Economic empowerment and social protection can help reduce poverty and HIV vulnerability while also keeping HIV patients healthy.Goal 3: Ensure that people live healthy lives.
+
+## Goal 1: eradicate poverty
+Poverty can make people more vulnerable to HIV infection. Women's socioeconomic status has an impact on their ability to prevent or mitigate the effects of HIV. HIV-affected households are more likely to fall into and remain in poverty. Economic empowerment and social protection can help reduce poverty and HIV vulnerability while also keeping HIV patients healthy.
+## Goal 3: Ensure that people live healthy lives.
 Access to HIV prevention and treatment is hampered by a lack of universal health coverage, which includes sexual and reproductive health services as well as harm reduction for people who inject drugs. The majority of people who become infected with HIV do so through sexual transmission or transmission from mother to infant during pregnancy, childbirth, or breastfeeding. Integrating HIV-sensitive universal health coverage with rights-based services for sexual and reproductive health, noncommunicable diseases, hepatitis, tuberculosis, and other conditions can improve broader health outcomes. SDG 3 includes Member States' commitment to eradicate AIDS by 2030. (target 3.3).
 This framework will assist the Philippine government in taking immediate action prior to a larger number of people contracting/ having HIV/AIDS.
-![image](https://user-images.githubusercontent.com/105804704/170804013-16491c5a-96a9-49a1-812f-7240452c2c10.png)
+
+![download (6)](https://user-images.githubusercontent.com/105804704/170903550-8ab8b1fe-763d-42b4-8645-909621cf9f24.png)
+![download (7)](https://user-images.githubusercontent.com/105804704/170903511-3cc44ff0-c66f-4663-9614-cc156aaa12bc.png)
+
 
 ## Significance of the Study
 
