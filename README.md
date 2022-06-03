@@ -12,7 +12,7 @@
 
 ## Statement of the problem
 
- The primary issue that this research would address is that many people have failed to recognize the dangers of sexual intercourse or any genital touches in recent years. One of the dangers of having a sexual connection is STDs, or sexually transmitted illnesses (STIs), such as AIDS and HIV. The majority of patients are unaware of the danger it poses to their life. The percentage of patients with HIV/AIDS are males, and the disease is transmitted through sexual contact. The majority of the patients are between the ages of 25 and 34. People should be aware of this case for the reason they will be learned alot and educate how to lessen and abstain HIV/aids.
+ The primary issue that this research would address is that many people have failed to recognize the dangers of sexual intercourse or any genital touches in recent years. One of the dangers of having a sexual connection is STDs, or sexually transmitted illnesses (STIs), such as AIDS and HIV. The majority of patients are unaware of the danger it poses to their life. The percentage of patients with HIV/AIDS are males, and the disease is transmitted through sexual contact. The majority of the patients are between the ages of 25 and 34. People should be aware of this case for the reason they will be learned alot and educate how to lessen and abstain HIV/aids.In addition to representing a staggering public health crisis, HIV/AIDS is also fundamentally a human rights issue. Many factors drive the spread of the disease, such as poverty, homelessness, illiteracy, prostitution, human trafficking, drug (substance) abuse, stigma, discrimination and gender-based inequality.
 
 ## Sustainable Development Goals (SDGs)
 
