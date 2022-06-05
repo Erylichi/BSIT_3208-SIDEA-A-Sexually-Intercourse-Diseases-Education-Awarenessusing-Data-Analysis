@@ -22,7 +22,7 @@ Sustainable Poverty Action and Ensure Healthy Lives Action are the SDGs that thi
 
 ## Goal 1: no poverty
 Poverty can make people more vulnerable to HIV infection. Women's socioeconomic status has an impact on their ability to prevent or mitigate the effects of HIV. HIV-affected households are more likely to fall into and remain in poverty. Economic empowerment and social protection can help reduce poverty and HIV vulnerability while also keeping HIV patients healthy.
-## Goal 3: Ensure that people live healthy lives.
+## Goal 3: Good health and well being.
 Access to HIV prevention and treatment is hampered by a lack of universal health coverage, which includes sexual and reproductive health services as well as harm reduction for people who inject drugs. The majority of people who become infected with HIV do so through sexual transmission or transmission from mother to infant during pregnancy, childbirth, or breastfeeding. Integrating HIV-sensitive universal health coverage with rights-based services for sexual and reproductive health, noncommunicable diseases, hepatitis, tuberculosis, and other conditions can improve broader health outcomes. SDG 3 includes Member States' commitment to eradicate AIDS by 2030. (target 3.3).
 This framework will assist the Philippine government in taking immediate action prior to a larger number of people contracting/ having HIV/AIDS.
 
