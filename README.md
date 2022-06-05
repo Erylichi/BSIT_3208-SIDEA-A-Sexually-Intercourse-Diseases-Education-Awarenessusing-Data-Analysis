@@ -57,12 +57,22 @@ This framework will assist the Philippine government in taking immediate action 
 
  The main objective of this study is to conduct an explanatory data analysis to estimate the impact of sexually transmitted disease education and awareness from 2015 to 2021,  The researchers will be able to develop methods to prevent sexually transmitted illnesses and infection in the Philippines by doing an explanatory data analysis for this study. Educators will be one of the most significant persons in this endeavor because they will offer a credible explanation of what sexual intercourse is and what aspects and implications it has on human health. Also, with the aid of our data analysis, individuals may learn which parts of the country are the most affected by HIV/AIDS, as well as how quickly the virus spreads and how easy it can be contracted. One of our focuses and aims is to reduce the number of persons infected with HIV/AIDS and to provide care and support to those living with the disease and their families. These kinds of goals may take years to fulfill, and we won't be able to accomplish them in a few months, but with a lot of exposure and minimal follow-up, we can alert a lot of people to how essential this is. Organizations can also assist us, but they must work on a long-term campaign that is ongoing. People should be taught and informed on how to prevent catching HIV/AIDS by changing their sexual behaviors, according to our expectations. Creating a community that cares about such programs to assist people living with STIs and STI orphans, as well as raising knowledge about the disease and making communities more accepting of people living with any STI.
 
-**Solutions**
+**Recommnendations to prevent or lessen the number of population of having HIV/AIDS**
 - Create tools to assist people living with HIV/AIDS in asserting their rights.
 - Ensure that the rights of those living with AIDS are protected.
 - Encourage people to be open and accepting of HIV/AIDS and other STDs.
-- A public awareness campaign to encourage transparency and change behavior.
+- A Barangay public awareness campaign to encourage transparency and change behavior.
 - Increase the number of persons who can receive free HIV testing and counseling;
 - Encourage people to use condoms more frequently to prevent the spread of STDs and HIV;
+- Innovation : HIV/AIDS Information System. (Plase see attach our ppt presentation)
 
+
+CTRL CODE Group :
+- Bentir Cyra Mae
+- Dela Pena Ma.Christine
+- Bayode Jemilehin
+- Goot Eryl Cresid
+- Mendoza Jason Allen
+- Otutu Johnpaul Ifeanyi
+- Quianl Joshua
 
