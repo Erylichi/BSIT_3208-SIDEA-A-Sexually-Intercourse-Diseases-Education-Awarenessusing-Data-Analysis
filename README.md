@@ -47,7 +47,7 @@ This framework will assist the Philippine government in taking immediate action 
 
 - The initiative will benefit Filipino residents by allowing them to track which gender and age group has the highest number of HIV/AIDS affected people. Also, being aware of the HIV/AIDS risk factors.
 - For students who will need the knowledge in the future for their projects. This will help students have a better understanding of the need of being well-informed about HIV/AIDS.
-- Future Researchers will be able to use this repository as a reference if they want to conduct a study similar to this one. Future scholars are free to build on these initiatives and use them as a model. Also if the future Researchers can use this as reference if they have plan to do related studies precisely an standard underlying Bachelor of Science in Information Technology 
+- Future Researchers will be able to use this repository as a reference if they want to conduct a study similar to this one. Future scholars are free to build on these initiatives and use them as a model. The future Researchers can use this as reference if they have plan to do related studies precisely an standard underlying Bachelor of Science in Information Technology 
 - This study will assist HIV/AIDS patients in monitoring the available HIV/AIDS preventive facilities in their area.
 
 ## Methods
