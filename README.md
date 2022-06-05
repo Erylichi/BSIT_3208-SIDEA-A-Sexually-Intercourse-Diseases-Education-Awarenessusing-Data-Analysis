@@ -20,7 +20,7 @@ The datasets used in this repository are from HIV-AIDS registry of the Philippin
 The Project's Sustainable Development Goals (SDGs)
 Sustainable Poverty Action and Ensure Healthy Lives Action are the SDGs that this project aims to achieve. The following are additional descriptions of the SDGs:
 
-## Goal 1: eradicate poverty
+## Goal 1: no poverty
 Poverty can make people more vulnerable to HIV infection. Women's socioeconomic status has an impact on their ability to prevent or mitigate the effects of HIV. HIV-affected households are more likely to fall into and remain in poverty. Economic empowerment and social protection can help reduce poverty and HIV vulnerability while also keeping HIV patients healthy.
 ## Goal 3: Ensure that people live healthy lives.
 Access to HIV prevention and treatment is hampered by a lack of universal health coverage, which includes sexual and reproductive health services as well as harm reduction for people who inject drugs. The majority of people who become infected with HIV do so through sexual transmission or transmission from mother to infant during pregnancy, childbirth, or breastfeeding. Integrating HIV-sensitive universal health coverage with rights-based services for sexual and reproductive health, noncommunicable diseases, hepatitis, tuberculosis, and other conditions can improve broader health outcomes. SDG 3 includes Member States' commitment to eradicate AIDS by 2030. (target 3.3).
