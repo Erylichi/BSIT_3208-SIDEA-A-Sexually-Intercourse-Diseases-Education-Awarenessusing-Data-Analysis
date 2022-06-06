@@ -45,7 +45,7 @@ This framework will assist the Philippine government in taking immediate action 
 - To Effectively engage those most at risk of HIV into the prevention continuum.
 - To Create tailored HIV interventions for key populations.
 - To Improve HIV care and efficiency through differentiated care models.
-
+- To Address stigma and the social determinants that sustain HIV transmission and viral persistence.
 
 ## This study will be beneficial for: 
 
@@ -71,7 +71,9 @@ The purpose of this study is to conduct an explanatory data analysis to estimate
 - Increase the number of persons who can receive free HIV testing and counseling;
 - Encourage people to use condoms more frequently to prevent the spread of STDs and HIV;
 - Innovation : HIV/AIDS Information System. (Plase see attach our ppt presentation)
-
+- Use strategies such as abstinence not having sex, never sharing needles, and using condoms the right way every time you have sex. 
+- Be able to take advantage of HIV prevention medicines such as pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP).
+- Learning about educational sex and the used of condoms that helps prevent HIV for higher risk sexual activities like anal or vaginal sex, and for lower risk activities, like oral sex and sharing sex toys.
 
 CTRL CODE Group 3208:
 - Bentir Cyra Mae
