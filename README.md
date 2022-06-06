@@ -75,5 +75,5 @@ CTRL CODE Group :
 - Goot Eryl Cresid
 - Mendoza Jason Allen
 - Otutu Johnpaul Ifeanyi
-- Quianl Joshua
+- Quinal Joshua
 
