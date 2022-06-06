@@ -45,7 +45,7 @@ This framework will assist the Philippine government in taking immediate action 
 - To Effectively engage those most at risk of HIV into the prevention continuum.
 - To Create tailored HIV interventions for key populations.
 - To Improve HIV care and efficiency through differentiated care models.
-- To Address stigma and the social determinants that sustain HIV transmission and viral persistence.
+
 
 ## This study will be beneficial for: 
 
