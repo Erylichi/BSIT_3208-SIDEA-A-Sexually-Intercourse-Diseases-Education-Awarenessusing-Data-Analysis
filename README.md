@@ -53,6 +53,7 @@ This framework will assist the Philippine government in taking immediate action 
 - For students who will need the knowledge in the future for their projects. This will help students have a better understanding of the need of being well-informed about HIV/AIDS.
 - Future Researchers will be able to use this repository as a reference if they want to conduct a study similar to this one. Future scholars are free to build on these initiatives and use them as a model. The future Researchers can use this as reference if they have plan to do related studies precisely an standard underlying Bachelor of Science in Information Technology 
 - This study will assist HIV/AIDS patients in monitoring the available HIV/AIDS preventive facilities in their area.
+- For every Man and Woman who undergo sexual contact and have no idea on this learning for them to educate and must be aware how harmful to have this kind of illness  and also the importance to educate everyone who truly wants to learn this.
 
 ## Methods
 
