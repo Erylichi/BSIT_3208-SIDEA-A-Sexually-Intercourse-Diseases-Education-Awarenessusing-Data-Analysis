@@ -41,7 +41,11 @@ This framework will assist the Philippine government in taking immediate action 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
 - To provide a datasets about regions percentage of infected.
-- Lower the number of new HIV infections (particularly among teenagers) by creating a recommendations how to prevent the number of infected.
+- To Lower the number of new HIV infections (particularly among teenagers) by creating a recommendations how to prevent the number of infected.
+- To Effectively engage those most at risk of HIV into the prevention continuum.
+- To Create tailored HIV interventions for key populations.
+- To Improve HIV care and efficiency through differentiated care models.
+- To Address stigma and the social determinants that sustain HIV transmission and viral persistence.
 
 ## This study will be beneficial for: 
 
