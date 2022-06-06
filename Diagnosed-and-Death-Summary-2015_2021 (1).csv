@@ -1,7 +1,7 @@
-Demographic Data,Year 2015,Year 2016,Year 2017,Year 2018,Year 2019,Year 2020,Year 2021
-Total Reported Cases,7829,9264,11193,11427,12778,8058,12341
+Demographic_Data,Year_2015,Year_2016,Year_2017,Year_2018,Year_2019,Year_2020,Year_2021
+Total_Reported_Cases,7829,9264,11193,11427,12778,8058,12341
 Asymptomatic Cases,7326,8151,9688,2939,2167,1623,1902
-AIDS Cases,503,1113,1415,-,-,-,-
+AIDS_Cases,503,1113,1415,-,-,-,-
 Male,7 507,8874,10586,10828,12116,7624,11793
 Female,322,390,517,599,662,434,548
 Age Range(Meridian),1-78 (28),1-75 (28),1-79 (27),1-73 (28),1-77 (27),1-78 (28),1-73 (28)
