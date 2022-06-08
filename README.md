@@ -41,11 +41,10 @@ This framework will assist the Philippine government in taking immediate action 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
 - To provide a datasets about regions percentage of infected.
-- To Lower the number of new HIV infections (particularly among teenagers) by creating a recommendations how to prevent the number of infected.
-- To Effectively engage those most at risk of HIV into the prevention continuum.
-- To Create tailored HIV interventions for key populations.
-- To Improve HIV care and efficiency through differentiated care models.
-- To Address stigma and the social determinants that sustain HIV transmission and viral persistence.
+- To Lower the number of new HIV infections particularly among teenagers by creating a recommendations how to prevent the number of infected.
+- To effectively engage those most at risk of HIV into the prevention.
+- To create HIV interventions for key populations.
+- To improve HIV care and efficiency through different health care procedure and learning ideas to prevent the HIV cases.
 
 ## This study will be beneficial for: 
 
@@ -54,6 +53,7 @@ This framework will assist the Philippine government in taking immediate action 
 - Future Researchers will be able to use this repository as a reference if they want to conduct a study similar to this one. Future scholars are free to build on these initiatives and use them as a model. The future Researchers can use this as reference if they have plan to do related studies precisely an standard underlying Bachelor of Science in Information Technology 
 - This study will assist HIV/AIDS patients in monitoring the available HIV/AIDS preventive facilities in their area.
 - For every Man and Woman who undergo sexual contact and have no idea on this learning for them to educate and must be aware how harmful to have this kind of illness  and also the importance to educate everyone who truly wants to learn this.
+- For those people who involve and have an HIV cases.
 
 ## Methods
 
@@ -72,7 +72,6 @@ The purpose of this study is to conduct an explanatory data analysis to estimate
 - Encourage people to use condoms more frequently to prevent the spread of STDs and HIV;
 - Innovation : HIV/AIDS Information System. (Plase see attach our ppt presentation)
 - Use strategies such as abstinence not having sex, never sharing needles, and using condoms the right way every time you have sex. 
-- Be able to take advantage of HIV prevention medicines such as pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP).
 - Learning about educational sex and the used of condoms that helps prevent HIV for higher risk sexual activities like anal or vaginal sex, and for lower risk activities, like oral sex and sharing sex toys.
 
 CTRL CODE Group 3208:
@@ -82,5 +81,5 @@ CTRL CODE Group 3208:
 - Goot Eryl Cresid
 - Mendoza Jason Allen
 - Otutu Johnpaul Ifeanyi
-- Quinal Joshua
+- Quinal Joshua Salve 
 
