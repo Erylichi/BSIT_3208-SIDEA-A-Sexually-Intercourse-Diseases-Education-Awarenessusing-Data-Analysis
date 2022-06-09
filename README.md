@@ -12,7 +12,7 @@ The datasets used in this repository are from HIV-AIDS registry of the Philippin
 
 ## Statement of the problem
 
- The primary issue that this research would address is that many people have failed to recognize the dangers of sexual intercourse or any genital touches in recent years. One of the dangers of having a sexual connection is STDs, or sexually transmitted illnesses (STIs), such as AIDS and HIV. The majority of patients are unaware of the danger it poses to their life. The percentage of patients with HIV/AIDS are males, and the disease is transmitted through sexual contact. The majority of the patients are between the ages of 25 and 34. People should be aware of this case for the reason they will be learned alot and educate how to lessen and abstain HIV/aids.In addition to representing a staggering public health crisis, HIV/AIDS is also fundamentally a human rights issue. Many factors drive the spread of the disease, such as poverty, homelessness, illiteracy, prostitution, human trafficking, drug (substance) abuse, stigma, discrimination and gender-based inequality. Also in another thing is most people dont get serious to know how really important to be aware of having HIV, Many people have no idea about the learning on how to abstain and prevent it, so that's why the level of percentage that have an HIV is continually increase. Everyone should be educated to lessen the value of this case to the people. If they learn and if they educate it must be a high possible to have decrease number of a having an HIV.
+ The primary issue that this research would address is that many people have failed to recognize the dangers of sexual intercourse or any genital touches in recent years. One of the dangers of having a sexual connection is STDs, or sexually transmitted illnesses (STIs), such as AIDS and HIV. The majority of patients are unaware of the danger it poses to their life. The percentage of patients with HIV/AIDS are males, and the disease is transmitted through sexual contact. The majority of the patients are between the ages of 25 and 34. People should be aware of this case for the reason they will be learned alot and educate how to lessen and abstain HIV/aids. HIV/Aids have many factors drive the spread of the disease, such as poverty, homelessness, illiteracy, prostitution, human trafficking, abuse,discrimination and gender-based inequality. Also in another thing is most people dont get serious to know how really important to be aware of having HIV, Many people have no idea about the learning on how to abstain and prevent it, so that's why the level of percentage that have an HIV is continually increase. Everyone should be educated to lessen the value of this case to the people. If they learn and if they educate it must be a high possible to have decrease number of a having an HIV.
 
 ## Sustainable Development Goals (SDGs)
 
@@ -40,9 +40,9 @@ This framework will assist the Philippine government in taking immediate action 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
 - To provide a datasets about regions percentage of infected.
-- To provide a datasets about the percentage of total deaths year 2015 to 2021.
 - To Lower the number of new HIV infections particularly among teenagers by creating a recommendations how to prevent the number of infected.
-
+- To effectively engage those most at risk of HIV into the prevention.
+- To improve HIV care and efficiency through different health care procedure and learning ideas to prevent the HIV cases.
 
 ## This study will be beneficial for: 
 
@@ -55,21 +55,22 @@ This framework will assist the Philippine government in taking immediate action 
 
 ## Methods
 
- The Data have been collected via using quantitative methods. It was utilized to identify the factors that have affected HIV/AIDS testing among the individuals in recent years. A descriptive cross-sectional study was used in the quantitative strand of the study to determine the important and context-specific factors that influenced HIV/AIDS testing among Filipinos. A convenience sampling technique was used to select the subjects. In data gathering, we conduct Exploratory Data Analysis, or EDA, as a means of analyzing datasets in order to summarize the major aspects of any visual methods.
+ The Data have been collected via using a mixed method of qualitative and quantitative methods. It was utilized to identify the factors that have affected HIV/AIDS testing among the individuals in recent years. A descriptive cross-sectional study was used in the quantitative strand of the study to determine the important and context-specific factors that influenced HIV/AIDS testing among Filipinos. A convenience sampling technique was used to select the subjects. We're also considering utilizing a self-completed online questionnaire to provide us greater flexibility in data collection for further study in the near future. The questionnaire asked about how and when they contracted the diseases, as well as any HIV/AIDS-related knowledge. It also asked if they were aware of the danger of contracting STIs during sexual contact. In terms of the qualitative component of the study, we planned to employ semi-structured interviews to capture the viewpoints of healthcare professionals working in the HIV/AIDS area in the Philippines. In data gathering, we conduct Exploratory Data Analysis, or EDA, as a means of analyzing datasets in order to summarize the major aspects of any visual methods.
 
 ## Expected Output
 
 The purpose of this study is to conduct an explanatory data analysis to estimate the impact of sexually transmitted disease education and awareness from 2015 to 2021. By conducting an explanatory data analysis, the researchers will be able to develop methods to prevent sexually transmitted illnesses and infection in the Philippines. Educators will be one of the most important people in this effort because they will provide a credible explanation of what sexual intercourse is and the effects it has on human health.Individuals can also use our data analysis to learn which parts of the country are the most affected by HIV/AIDS, as well as how quickly the virus spreads and how easy it is to get the disease. Reduce the number of people infected with HIV/AIDS and give care and support to individuals living with the disease and their families is one of our main goals. These kinds of objectives may take years to achieve, and we won't be able to do so in a few months, but with a lot of exposure and minimum follow-up, we can alert a large number of individuals to the importance of this. Organizations can also help us, but they must do it as part of a long-term campaign. People should be taught and informed on how to prevent catching HIV/AIDS by changing their sexual behaviors, according to our expectations. Creating a community that cares about such programs to assist people living with STIs and STI orphans, as well as raising knowledge about the disease and making communities more accepting of people living with any STI.
 
 **Recommnendations to prevent or lessen the number of population of having HIV/AIDS**
-- Develop tools to aid HIV/AIDS patients in expressing their rights.
-- Ensure that persons living with AIDS have their rights safeguarded.
-- Encourage individuals to be open to HIV/AIDS and other STDs and to accept them.
-- A public awareness campaign in the barangay to encourage transparency and behavior change.
-- Expand the number of people eligible for free HIV testing and counseling;
-- Encourage people to use condoms more regularly to reduce STDs and HIV transmission;
-- HIV/AIDS Information System (HIV/AIDS Information System). (Please see our ppt presentation attached.)
-- Practice abstinence from having sex, never sharing needles, and using condoms properly every time you have sex.
+- Create tools to assist people living with HIV/AIDS in asserting their rights.
+- Ensure that the rights of those living with AIDS are protected.
+- Encourage people to be open and accepting of HIV/AIDS and other STDs.
+- A Barangay public awareness campaign to encourage transparency and change behavior.
+- Increase the number of persons who can receive free HIV testing and counseling;
+- Encourage people to use condoms more frequently to prevent the spread of STDs and HIV;
+- Innovation : HIV/AIDS Information System. (Plase see attach our ppt presentation)
+- Using strategies to educate the people which can prevent HIV/Aids for not having sex, and using condoms the right way every time you have sex. 
+- Learning about educational sex and the used of condoms that helps prevent HIV for higher risk sexual activities like anal or vaginal sex.
 
 CTRL CODE Group 3208:
 - Bentir Cyra Mae
