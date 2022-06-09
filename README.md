@@ -40,6 +40,7 @@ This framework will assist the Philippine government in taking immediate action 
 - To provide a datasets what ages has the most infected.
 - To provide a datasets what gender has the most infected.
 - To provide a datasets about regions percentage of infected.
+- To provide a datasets about the percentage of total deaths year 2015 to 2021.
 - To Lower the number of new HIV infections particularly among teenagers by creating a recommendations how to prevent the number of infected.
 
 
