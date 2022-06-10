@@ -81,5 +81,7 @@ CTRL CODE Group 3208:
 - Otutu Johnpaul Ifeanyi
 - Quinal Joshua Salve 
 
-## Final Video Presentation YouTube link
+## Recorded Video Presentation YouTube link
 - https://www.youtube.com/watch?v=b5R7fzWe0LU
+## Live Presentation YouTube Link
+- https://www.youtube.com/watch?v=ZqiYykKSpUg
